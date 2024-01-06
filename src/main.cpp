@@ -1,7 +1,7 @@
 /**
  * ESP32 Fingerprint Sensor Project
  * 
- * This code is designed for integrating a fingerprint sensor with an ESP32. 
+ * This code is designed for integrating a AS606 UART fingerprint sensor with a microcontroller. 
  * It includes functionality for enrolling new fingerprints and identifying 
  * registered fingerprints. The Adafruit Fingerprint Sensor Library is used 
  * for interfacing with the fingerprint sensor.
